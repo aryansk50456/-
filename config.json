@@ -1,0 +1,14 @@
+
+{
+  "prefix": "",
+  "BOTNAME": "MAHIN",
+  "adminBot": ["100000000000000"],
+  "nameUser": {},
+  "autoUnsend": false,
+  "timeUnsend": 60,
+  "userBanned": [],
+  "threadBanned": [],
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "language": "vi"
+}
